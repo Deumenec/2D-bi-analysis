@@ -12,9 +12,9 @@ Domènec Huerta Estradé — Universitat Autònoma de Barcelona & ICN2, 2026
 ```
 ├── June 2026/                     # Raw experimental session data
 │   ├── Ag(111)_*.sxm              # Nanonis topographic images of clean Ag(111)
-│   ├── Bi_Ag(111)_*.sxm          # Topographic images after Bi deposition
+│   ├── Bi_Ag(111)_*.sxm           # Topographic images after Bi deposition
 │   ├── *.dat                      # Nanonis point spectroscopy files (plain text)
-│   └── *.hdf5 / *.h5              # HDF5/NeXus output from INSTANT
+│   └── *.hdf5 / *.h5 / *.nxs      # HDF5/NeXus output from INSTANT
 ├── plots/                         # Generated figures
 ├── stml_analysis.ipynb            # Main analysis notebook
 ├── requirements.txt               # Python dependencies
