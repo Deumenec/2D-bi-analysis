@@ -47,7 +47,7 @@ Processed outputs are saved to `plots/`.
 
 All data were acquired with a Nanonis Mimea low-temperature STM operating
 at T ≈ 77 K and base pressure below 10⁻¹⁰ mbar. Bismuth was deposited by
-electron-beam evaporation from a high-purity Bi rod. STML spectra were
+electron-beam evaporation from a high-purity Bi from a crucible. STML spectra were
 recorded and processed with the INSTANT acquisition software (Appendix D
 of the thesis). Full sample preparation parameters and acquisition settings
 are given in the Methods section of the thesis.
